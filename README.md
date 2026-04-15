@@ -1,2 +1,1 @@
-# mod3-solution
-The solution for module 3
+# Module-3-Coding-Assignment
